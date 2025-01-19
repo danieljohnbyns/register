@@ -1,0 +1,11 @@
+{
+  "description": "Daniel John's Portfolio",
+  "owner": {
+    "username": "danieljohnbyns",
+    "email": "danieljohnbyns@gmail.com"
+  },
+  "record": {
+    "CNAME": "portfolio-xap1.onrender.com"
+  },
+  "proxied": true
+}
